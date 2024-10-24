@@ -1,1 +1,1 @@
-# todennus-config
+# config
